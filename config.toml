@@ -31,7 +31,7 @@ enableEmoji = true
   orgName = "RStudio"
   orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/faviconcat.ico"
+  favicon = "/img/favicon.ico"
   logo = "/img/cat96.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
@@ -71,7 +71,7 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "apreshill/apero"
+    repo_name = "brendensm/01-brenden-blogdown"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
