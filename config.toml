@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Brenden Smith"
   orgLocal = ""
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "A personal blog and website."
   favicon = "/img/favicon.ico"
   logo = "/img/cat96.png"
   mainSections = ["blog", "project", "talk"]
