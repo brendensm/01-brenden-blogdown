@@ -9,20 +9,12 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /blog/
-description: "This is a fully featured blog that supports categories, \ntags, series,
-  and pagination.\n"
-layout: list-sidebar
+description: "Welcome! Here you will find my thoughts, rants, and projects. I want to use this blog to track my progress in learning R, but also as a space to keep track of my experiences through graduate school, and life in general. Follow along with my journey!"
+layout: list
 show_author_byline: true
 show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
-sidebar:
-  author: Brenden Smith
-  description: "Welcome! Here you will find my thoughts, rants, and projects. I want to use this blog to track my progress in learning R, but also as a space to keep track of my experiences through graduate school, and life in general. Follow along with my journey!"
-  show_sidebar_adunit: true
-  text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
-  title: My Digital Garden
 thumbnail_left: true
 title: My Digital Garden
 ---
