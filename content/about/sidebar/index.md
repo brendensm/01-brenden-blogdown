@@ -1,18 +1,18 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Hugo Apéro"
-role: "A Hugo theme"
+author: "Brenden Smith"
+role: "MPH Student, Research Assistant @ MSU-IHP"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "How to say my name" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Health Equity
+  url: https://www.apha.org/topics-and-issues/health-equity
+- name: Harm Reduction
+  url: https://harmreduction.org/about-us/principles-of-harm-reduction/
+- name: Community Engagement
+  url: https://aese.psu.edu/research/centers/cecd/engagement-toolbox/engagement/what-is-community-engagement
 ---
 
 ** index doesn't contain a body, just front matter above.
