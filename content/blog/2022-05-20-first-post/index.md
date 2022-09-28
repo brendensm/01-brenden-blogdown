@@ -5,12 +5,9 @@ subtitle: A brief introduction.
 date: '2022-05-22'
 slug: []
 categories: 
-- Blog
+- Personal
 tags: []
 excerpt: Get to know me a bit better in my first blog post.
-  In it, I discuss my background, education, and my intentions in organizing
-  a website like this. Find out more about me and follow along with
-  my journey of building my R skills!
 ---
 
 ### Hello, and Welcome!
