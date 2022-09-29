@@ -1,4 +1,4 @@
-baseURL = "boisterous-pothos.netlify.app"
+baseURL = "https://boisterous-pothos.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Brenden Smith"
