@@ -1,4 +1,4 @@
-baseURL = "https://boisterous-pothos.netlify.app/"
+baseURL = "https://www.brendenmsmith.com"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Brenden Smith"
@@ -90,10 +90,6 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/brendensm"
   [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/mustyoak"
-  [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/brendenmsmith"
@@ -108,7 +104,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About"
     url = "/about/"
     weight = 1
   [[menu.header]]
