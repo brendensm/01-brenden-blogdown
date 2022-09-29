@@ -1,4 +1,4 @@
-baseURL = "https://www.brendenmsmith.com"
+baseURL = "https://brendenmsmith.com"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Brenden Smith"
